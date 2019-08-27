@@ -1,0 +1,6 @@
+vid 1 22:33
+
+
+ask
+
+todo item component ts
